@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "version":"1.0",
+    "name": "Leads tracker",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon": "https://cdn.pixabay.com/photo/2014/12/21/23/57/money-576443_960_720.png"
+    },
+    "permissions":[
+        "tabs"
+    ]
+}
